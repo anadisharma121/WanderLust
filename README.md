@@ -1,2 +1,2 @@
 # It is an itinerary website
-## Technology stack used: Javascript, Express, Node.js, MongoDB, Bootstrap
+## Technology stack used: HTML, CSS, Javascript, Express.js, Next.js, MongoDB, Bootstrap
